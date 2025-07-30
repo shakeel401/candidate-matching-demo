@@ -1,0 +1,12 @@
+streamlit
+openai
+langchain
+PyMuPDF
+python-docx
+python-dotenv
+sentence-transformers
+langchain-community
+pinecone 
+langchain-pinecone 
+langchain-openai
+unstructured
