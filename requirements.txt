@@ -10,3 +10,4 @@ pinecone
 langchain-pinecone 
 langchain-openai
 unstructured
+langchain_huggingface
