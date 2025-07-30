@@ -22,7 +22,7 @@ st.sidebar.title("⚙️ Actions")
 option = st.sidebar.radio("Choose mode", ["Upload Resumes", "Match Job Description"])
 
 # === Resume Upload Mode ===
-if option == "📄 Upload Resumes":
+if option == "Upload Resumes":
     st.header("📤 Upload Resumes")
     uploaded_files = st.file_uploader(
         "Upload PDF or DOCX resumes",
